@@ -1,0 +1,23 @@
+{
+  "name": "emporiocase-rotating-image",
+  "version": "1.0.0",
+  "description": "AWS Lambda per ruotare un'immagine storata in un Bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrea-arseni/emporio-rotate-image.git"
+  },
+  "author": "Andrea Arseni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrea-arseni/emporio-rotate-image/issues"
+  },
+  "homepage": "https://github.com/andrea-arseni/emporio-rotate-image#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sharp": "^0.29.3"
+  }
+}
